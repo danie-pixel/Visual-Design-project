@@ -1,1 +1,1 @@
-# Web-Design-project
+# Visual-Design-project
